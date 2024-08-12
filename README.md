@@ -47,9 +47,4 @@ The application will be available at http://localhost:3000.
 Deployment
 The application is ready to be deployed to a platform like Vercel.
 
-Push your code to GitHub or any other Git repository.
-Connect your repository to Vercel.
-Set the required environment variables in the Vercel dashboard.
-Deploy the project.
-Contributing
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
