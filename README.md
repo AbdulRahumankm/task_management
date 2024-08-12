@@ -2,7 +2,7 @@
 
 This is a web-based Task Management Application built using modern technologies. It allows users to create, manage, and track their tasks efficiently.
 
-Features
+#Features
 User Authentication: Secure authentication with Clerk.
 Task Management: Create, update, delete, and manage tasks.
 Responsive Design: Fully responsive design using Tailwind CSS.
@@ -16,7 +16,7 @@ Tailwind CSS: Utility-first CSS framework for styling the application.
 Getting Started
 Follow these instructions to set up the project locally.
 
-Prerequisites
+#Prerequisites
 Node.js installed on your machine.
 MongoDB instance running (either locally or using a service like MongoDB Atlas).
 Clerk account for managing authentication.
